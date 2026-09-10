@@ -1,0 +1,836 @@
+1. Cấu tạo của bộ quần áo cứu hộ thủy thủ tàu ngầm SGP (СГП-К) là?
+A. Bộ quần áo kín nước.
+B. Bình khí oxy.
+C. Hai bình khí nén nhỏ.
+D. Bình khí Heli-oxy-nitơ.
+
+2. Cấu tạo của máy thở YDA-59M (ИДА59М) có trên tàu ngầm là?
+A. Bình khí oxy.
+B. Bình khí NitoHeliOxy.
+C. Bình khí Heli bổ sung.
+D. Hai bình khí nén nhỏ.
+
+3. Chức năng của máy thở YDA-59M (ИДА59М) là?
+A. Bảo đảm cho thủy thủ tàu ngầm hô hấp khi thoát ra khỏi tàu ngầm gặp nạn nằm đáy.
+B. Bảo đảm cho thủy thủ tàu ngầm hô hấp khi thoát ra khỏi tàu ngầm gặp nạn ở vị trí nổi.
+C. Duy trì hoạt động sống tạm thời cho thủy thủ trong khoang tàu ngầm khi áp lực tăng đến 1 MPa (10 kg.f/cm2) và nhiệt độ trong khoang dưới 50 độ C.
+D. Duy trì hoạt động sống tạm thời cho thủy thủ khi ở trên mặt nước.
+
+4. Có bao nhiêu hình thức kiểm tra bộ trang bị cứu hộ thủy thủ tàu ngầm trên tàu ngầm?
+A. 2.
+B. 3.
+C. 4.
+D. 5.
+
+5. Hình thức kiểm tra xem xét bên ngoài của bộ trang bị cứu hộ thủy thủ tàu ngầm do ai thực hiện?
+A. Thủy thủ tàu ngầm.
+B. Thợ lặn.
+C. Bác sỹ tàu ngầm.
+D. Người làm công tác bảo quản.
+
+6. Khi tiến hành huấn luyện thoát hiểm trang bị cứu hộ thủy thủ tàu ngầm do ai kiểm tra?
+A. Thợ lặn bảo đảm.
+B. Nhân viên kỹ thuật bão dưỡng trang bị.
+C. Người thoát hiểm.
+D. Bác sỹ sinh lý.
+
+7. Kiểm tra trang bị tổng thể của bộ trang bị cứu hộ thủy thủ tàu ngầm được thực hiện khi nào?
+A. Trước mỗi chuyến đi biển.
+B. Sau khi đi biển về.
+C. 3 tháng thực hiện một lần.
+D. Khi phát hiện trang bị hỏng hóc.
+
+8. Kiểm tra trang bị tổng thể của bộ trang bị cứu hộ thủy thủ tàu ngầm được thực hiện khi nào?
+A. Sau khi nhận lại trang bị được mang đi sửa chữa.
+B. Khi phát hiện trang bị hỏng hóc.
+C. Trước khi mang trang bị đi sửa chữa.
+D. Sau khi nhận trang bị mới từ kho.
+
+9. Kiểm tra trang bị tổng thể của bộ trang bị cứu hộ thủy thủ tàu ngầm được thực hiện khi nào?
+A. Mỗi năm một lần.
+B. Trước mỗi chuyến đi biển.
+C. Khi phát hiện trang bị hỏng hóc.
+D. Trước khi huấn luyện thoát hiểm.
+
+10. Kiểm tra hộp van được thực hiện như sau?
+A. Xoay cần gạt vài lần, kiểm tra độ kín van hít vào, van thở ra.
+B. Xoay cần gạt vài lần, kiểm tra độ kín van hít vào, van thở ra, tháo van một chiều.
+C. Xoay cần gạt vài lần, kiểm tra độ kín van hít vào, van thở ra, kiểm tra sự có mặt miếng mica, lò xo.
+D. Xoay cần gạt vài lần, kiểm tra độ kín van hít vào, van thở ra, kiểm tra sự có mặt miếng mica, lò xo, miếng lót cao su.
+
+11. Kiểm tra van hít vào bằng cách?
+A. Chuyển cần gạt sang “THỞ MÁY”, hít vào.
+B. Chuyển cần gạt sang “THỞ MÁY”, thở ra.
+C. Chuyển cần gạt sang “THỞ MÁY”, chặn ống hít vào và hít vào.
+D. huyển cần gạt sang “THỞ MÁY”, chặn ống thở ra và thở ra.
+
+12. Kiểm tra van thở ra bằng cách?
+A. Chuyển cần gạt sang “THỞ MÁY”, hít vào.
+B. Chuyển cần gạt sang “THỞ MÁY”, thở ra.
+C. Chuyển cần gạt sang “THỞ MÁY”, chặn ống hít vào và hít vào.
+D. Chuyển cần gạt sang “THỞ MÁY”, chặn ống thở ra và thở ra.
+
+13. Kiểm tra van xả-an toàn bằng cách?
+A. Đóng van an toàn hết cỡ, chuyển cần gạt sang “THỞ MÁY”, hít vào từ máy, thở ra ngoài môi trường.
+B. Đóng van an toàn hết cỡ, chuyển cần gạt sang “THỞ MÁY”, hít vào từ môi trường, thở vào máy.
+C. Mở van an toàn hết cỡ, chuyển cần gạt sang “THỞ MÁY”, hít vào từ máy, thở ra ngoài môi trường.
+D. Mở van an toàn hết cỡ, chuyển cần gạt sang “THỞ MÁY”, hít vào từ môi trường, thở vào máy.
+
+14. Trình tự kiểm tra hộp thở tự động?
+A. Mở bình khí NitơHeliOxy, nghe tiếng “xì” khí, nếu nghe thấy tiếng “xì” khí, thì chuyển cần gạt sang “THỞ MÁY”, hít vào từ môi trường, thở vào máy.
+B. Mở bình khí NitơHeliOxy, nghe tiếng “xì” khí, nếu không nghe thấy tiếng “xì” khí, thì chuyển cần gạt sang “THỞ MÁY”, hít vào từ máy, thở ra môi trường.
+C. Mở bình khí NitơHeliOxy, nghe tiếng “xì” khí, nếu nghe thấy tiếng “xì” khí, thì chuyển cần gạt sang “THỞ MÁY”, hít vào máy, thở ra môi trường.
+D. Mở bình khí NitơHeliOxy, dùng ngón tay ấn vào hộp thở tự động đến khi nghe tiếng “xì” khí.
+
+15. Kiểm tra hộp tái sinh trước khi huấn luyện?
+A. Lắc hộp tái sinh để kiểm tra số lượng.
+B. Kiểm tra màu sắc của chất tái sinh.
+C. Dùng đoạn nhô ra của nắp hộp tái sinh để kiểm tra số lượng.
+D. Kiểm tra tính nguyên hạt, độ ẩm của chất tái sinh.
+
+16. Số nào dưới đây là số chẵn?
+A. Tháo đai ốc chụp trên bình khí, lắp đai ốc đó vào ống nối sau van giảm áp, lắp đồng hồ cao áp vào ống nối trên bình khí, vừa xem đồng hồ, vừa mở bình khí, làm ngược lại.
+B. Tháo đai ốc chụp trên bình khí, lắp đai ốc đó vào ống nối sau van giảm áp, lắp đồng hồ thấp áp vào ống nối trên bình khí, vừa xem đồng hồ, vừa mở bình khí, làm ngược lại.
+C. Tháo đai ốc chụp trên bình khí, lắp đai ốc đó vào ống nối sau van giảm áp, lắp đồng hồ cao áp vào ống nối trên bình khí, mở bình khí, kiểm tra chỉ số trên đồng hồ, làm ngược lại.
+D. Tháo đai ốc chụp trên bình khí, lắp đai ốc đó vào ống nối sau van giảm áp, lắp đồng hồ thấp áp vào ống nối trên bì
+
+17. Kiểm tra áp lực sau van giảm áp của các bình khí của máy YDA-59M?
+A. Lắp đồng hồ cao áp vào ống nối sau van giảm áp, vừa xem đồng hồ, vừa mở bình khí, làm ngược lại.
+B. Lắp đồng hồ thấp áp vào ống nối sau van giảm áp, vừa xem đồng hồ, vừa mở bình khí, làm ngược lại.
+C. Lắp đồng hồ cao áp vào ống nối sau van giảm áp, mở bình khí, kiểm tra giá trị đo trên đồng hồ, làm ngược lại.
+D. Lắp đồng hồ thấp áp vào ống nối sau van giảm áp, mở bình khí, kiểm tra giá trị đo trên đồng hồ, làm ngược lại.
+
+18. Sau khi vào trong thiết bị thoát hiểm, chuẩn bị nhận nước vào gõ tín hiệu thế nào?
+A. 2 gõ đơn
+B. 2 gõ kép
+C. 3 gõ đơn
+D. 3 gõ kép
+
+19. Sau khi đóng van cấp nước, đóng van thông hơi thiết bị thoát hiểm thì:
+A. Người bảo đảm bắt đầu cấp khí nén để cân bằng áp lực với ngoài mạn;
+B. Người thoát hiểm bắt đầu cấp khí nén để cân bằng áp lực với ngoài mạn;
+C. Người thoát hiểm đưa tín hiệu bắt đầu cấp khí nén, người bảo đảm bắt đầu cấp khí nén để cân bằng áp lực;
+D. Người bảo đảm đưa tín hiệu 2 gõ, người thoát hiểm nhận được tín hiệu, nếu sức khỏe bình thường gõ trả lời 2 gõ;
+
+20. Sau khi cấp khí nén vào thiết bị thoát hiểm (TBTH) đến khi cân bằng với áp lực ngoài mạn (kiểm tra trên đồng hồ đo), khóa van cấp khí, hành động tiếp theo là:
+A. Người bảo đảm đưa tín hiệu 4 gõ;
+B. Người thoát hiểm đưa tín hiệu 4 gõ;
+C. Người bảo đảm mở cửa TBTH;
+D. Người thoát hiểm mở cửa TBTH;
+
+21. Sau khi nhận được tín hiệu đã cân bằng áp lực với ngoài mạn (4 gõ), hành động của người thoát là:
+A. Đóng van thông khí trên mũ của bộ quần áo kín nước, và gõ trả lời 4 gõ;
+B. Đóng van thông khí trên mũ của bộ quần áo kín nước và thoát ra ngoài;
+C. Đưa tín hiệu 3 gõ, sau đó nổi lên mặt nước;
+D. Gõ trả lời 4 gõ, sau đó nổi lên mặt nước;
+
+22. Sau khi cửa thiết bị thoát hiểm đã mở, hành động tiếp theo của người thoát là:
+A. Đóng van thông khí trên mũ của bộ quần áo kín nước, và gõ trả lời 4 gõ;
+B. Đóng van thông khí trên mũ của bộ quần áo kín nước và thoát ra ngoài;
+C. Đưa tín hiệu 3 gõ, sau đó nổi lên mặt nước;
+D. Gõ trả lời 4 gõ, sau đó nổi lên mặt nước;
+
+23. Trong thời gian 1-2 phút sau khi người thoát hiểm nổi lên mặt nước thì hành động tiếp theo là:
+A. Xả nước trong thiết bị thoát hiểm;
+B. Thông khí thiết bị thoát hiểm;
+C. Chuẩn bị thủy thủ (nhóm thủy thủ) tiếp theo;
+D. Đóng cửa trên (trước) thiết bị thoát hiểm, xả nước trong thiết bị thoát hiểm (TBTH), mở cửa dưới (sau) TBTH, chuẩn bị thủy thủ (nhóm thủy thủ) tiếp theo;
+
+24. Khi thoát hiểm qua thiết bị thoát hiểm đứng, ai là người mở nắp trên TBTH:
+A. Người bảo đảm;
+B. Người thoát;
+C. Người bảo đảm mở bằng thiết bị tự động;
+D. Người thoát hiểm mở bằng tay hoặc người bảo đảm mở bằng thiết bị tự động.
+
+25. Khi thoát hiểm qua ống lôi, ai là người mở nắp trước ống lôi:
+A. Người bảo đảm;
+B. Người thoát;
+C. Người bảo đảm mở bằng thiết bị tự động;
+D. Người thoát hiểm mở bằng tay hoặc người bảo đảm mở bằng thiết bị tự động.
+
+26. Vị trí trên dây phao tiêu có quả cầu phao đầu tiên là bao nhiêu mét:
+A. 25 mét
+B. 35 mét
+C. 15 mét
+D. 12 mét
+
+27. Vị trí trên dây phao tiêu có 2 quả cầu phao là bao nhiêu mét:
+A. 25 mét
+B. 35 mét
+C. 15 mét
+D. 12 mét
+
+28. Độc lập thoát hiểm khỏi tàu ngầm kilo 636 gặp nạn, nằm đáy có thể thực hiện từ độ sâu bao nhiêu:
+A. 60 mét;
+B. 100 mét;
+C. 125 mét;
+D. 220 mét;
+
+29. Nguyên nhân gây ra bệnh vỡ phổi là:
+A. Do không tuân thủ chế độ giảm áp;
+B. Do tăng áp lực đột ngột trong lồng ngực;
+C. Do giảm áp lực đột ngột trong lồng ngực;
+D. Do lựa chọn chế độ giảm áp không phù hợp;
+
+30. Nguyên nhân gây ra bệnh giảm áp là:
+A. Do không tuân thủ chế độ giảm áp;
+B. Do tăng áp lực đột ngột trong lồng ngực;
+C. Do giảm áp lực đột ngột trong lồng ngực;
+D. Do lựa chọn chế độ giảm áp không phù hợp;
+
+31. Dự phòng bệnh vỡ phổi:
+A. Tuân thủ chính xác chế độ giảm áp;
+B. Kiểm tra chính xác và cẩn thận trang bị trước khi lặn;
+C. Ngậm miệng khi nổi lên mặt nước để duy trì lượng khí oxy trong phổi;
+D. Sử dụng khí oxy để thở trước khi lặn; 
+
+32. Dự phòng bệnh giảm áp:
+A. Tuân thủ chính xác chế độ giảm áp;
+B. Kiểm tra chính xác và cẩn thận trang bị trước khi lặn;
+C. Ngậm miệng khi nổi lên mặt nước để duy trì lượng khí oxy trong phổi;
+D. Sử dụng khí oxy để thở trước khi lặn;
+
+33. Áp suất trong các bình khí của máy YDA-59M (ИДА-59М) trong điều kiện chiến đấu là:
+A. 180 – 200 kg.f/cm2;
+B. Lớn hơn 100 kg.f/cm2;
+C. Từ 30 đến 200 kg.f/cm2;
+D. Cả 3 đáp án.
+
+34. Áp suất trong các bình khí của máy YDA-59M (ИДА-59М) trong điều kiện huấn luyện là:
+A. 180 – 200 kg.f/cm2;
+B. Lớn hơn 100 kg.f/cm2;
+C. Từ 30 đến 200 kg.f/cm2;
+D. Cả 3 đáp án.
+
+35. Áp lực sau van giảm áp oxy (không tiêu thụ) của máy thở YDA-59M (ИДА-59М) là:
+A. 5,5 – 6,5 kg.f/cm2;
+B. 5,3 – 6,6 kg.f/cm2;
+C. 5,3 – 6,5 kg.f/cm2;
+D. 5,5 – 6,6 kg.f/cm2;
+
+36. Áp lực sau van giảm áp NitơHeliOxy (không tiêu thụ) của máy thở YDA-59M (ИДА-59М) là:
+A. 5,5 – 6,5 kg.f/cm2;
+B. 5,3 – 6,6 kg.f/cm2;
+C. 5,3 – 6,5 kg.f/cm2;
+D. 5,5 – 6,6 kg.f/cm2;
+
+37. Cấu tạo của bộ trang bị cứu hộ thủy thủ tàu ngầm (ССП) được trang bị trên tàu ngầm kilo 636 là:
+A. Máy thở YDA-59M (ИДА59М);
+B. Bộ quần áo cứu hộ thủy thủ tàu ngầm SGP (СГП-К);
+C. Hệ thống dung tích nổi và dù hãm tốc;
+D. Bình khí Heli bổ sung;
+
+38. Cấu tạo của máy thở YDA-59M (ИДА59М) có trên tàu ngầm là:
+A. Hộp tái sinh;
+B. Túi thở và các chi tiết;
+C. Lót giày;
+D. Dây cao su và bản lăn ren kim loại;
+
+39. Bình oxy có màu:
+A. Xanh da trời;
+B. Màu nâu;
+C. Màu đen;
+D. Có 3 màu: xanh da trời, nâu và đen;
+
+40. Bình khí NitơHeliOxy có màu: 
+A. Xanh da trời;
+B. Màu nâu;
+C. Màu đen;
+D. Có 3 màu: xanh da trời, nâu và đen;
+
+41. Hộp tái sinh đựng:
+A. Chất tái sinh O-3;
+B. Chất hấp phụ CO2 (vôi sô-đa);
+C. Chất tái sinh O-3 trong điều kiện chiến đấu, chất hấp phụ CO2 (vôi sô-đa) trong điều kiện huấn luyện;
+D. Chất hấp phụ CO2 (vôi sô-đa) trong điều kiện chiến đấu, chất tái sinh O-3 trong điều kiện huấn luyện.
+
+42. Chất tái sinh O-3 có màu gì:
+A. Màu trắng;
+B. Màu vàng nhạt;
+C. Màu nâu đen;
+D. Màu vàng cam.
+
+43. Chất hấp phụ CO2 (vôi sô-đa) có màu gì:
+A. Màu trắng;
+B. Màu vàng nhạt;
+C. Màu nâu đen;
+D. Màu vàng cam.
+
+44. Chức năng của van xả-an toàn:
+A. Xả khí -Khi vặn đai ốc chụp của van xả-an toàn ra hết cỡ thì khí trong túi thở tự động xả ra môi trường bên ngoài;
+B. An toàn - Khi vặn vào hết cỡ đai ốc chụp của van xả-an toàn thì khí trong túi thở tự động xả ra môi trường bên ngoài khi áp lực trong túi thở cao hơn áp lực môi trường bên ngoài;
+C. Xả khí - Khi vặn vào hết cỡ đai ốc chụp của van xả-an toàn thì khí trong túi thở tự động xả ra môi trường bên ngoài khi áp lực trong túi thở cao hơn áp lực môi trường bên ngoài;
+D. An toàn - Khi vặn đai ốc chụp của van xả-an toàn ra hết cỡ thì khí trong túi thở tự động xả ra môi trường bên ngoài;
+
+45. Chức năng của hộp thở tự động:
+A. Tự động cấp hỗn hợp khí từ bình Nitơ-Heli-oxy vào túi thở khi không đủ thể tích hỗn hợp khí để hít vào.
+B. Tự động duy trì thể tích hỗn hợp khí cần thiết và cấp bổ sung hỗn hợp khí để cân bằng áp suất trong khoang túi thở với áp suất môi trường bên ngoài trong thời điểm lặn xuống.
+C. Tự động cấp khí oxy từ bình khí hỗn hợp vào túi thở khi không đủ thể tích hỗn hợp khí để hít vào.
+D. Tự động cấp hỗn hợp khí từ bình Nitơ-Heli-oxy vào túi thở khi không đủ thể tích hỗn hợp khí để thở ra.
+
+46. Chức năng của hộp van:
+A. Đảm bảo khả năng hô hấp bằng hỗn hợp khí từ máy;
+B. Đảm bảo khả năng hô hấp từ môi trường khi ở trên mặt nước;
+C. Tự động điều chỉnh lưu lượng khí phụ thuộc vào độ sâu;
+D. Đảm bảo khả năng hô hấp bằng hỗn hợp khí nén từ môi trường khi ở dưới nước;
+
+47. Trong điều kiện chiến đấu tín hiệu cấp cứu (1 hồi) được sử dụng khi nào:
+A. Đang tăng áp thì đau tai;
+B. Cơ thể bị mất nhiệt;
+C. Khó thở, có nguy cơ mất tính tự chủ;
+D. Không thể mở được cửa;
+
+48. Trước khi nổi lên mặt nước thủy thủ gõ tín hiệu:
+A. 2 gõ đơn;
+B. 3 gõ đơn;
+C. 4 gõ đơn;
+D. Nhiều hơn 4 gõ;
+
+49. Dựa vào yếu tố nào để xác định phương pháp nổi tự do hay theo dây phao tiêu:
+A. Sóng biển;
+B. Nhiệt độ nước và áp suất khí quyển;
+C. Độ sâu tàu nằm đáy;
+D. Thời gian chịu áp lực trong khoang tàu;
+
+50. Khi nước đến ngang ngực hoặc 2/3 thiết bị thoát hiểm gõ tín hiệu thế nào:
+A. 2 gõ đơn;
+B. 2 gõ kép;
+C. 3 gõ đơn;
+D. 3 gõ kép;
+
+51. Trước khi cấp khí nén vào thiết bị thoát hiểm để cân bằng áp lực với ngoài mạn, gõ tín hiệu thế nào:
+A. 2 gõ đơn;
+B. 2 gõ kép;
+C. 3 gõ đơn;
+D. 3 gõ kép;
+
+52. Khi áp lực trong thiết bị thoát hiểm cân bằng với ngoài mạn, gõ tín hiệu thế nào:
+A. 1 gõ đơn;
+B. 2 gõ đơn;
+C. 3 gõ đơn;
+D. 4 gõ đơn.
+
+53. Khi áp lực đã cân bằng nhưng không thể mở được cửa của thiết bị thoát hiểm thì gõ tín hiệu:
+A. 2 gõ đơn;
+B. 3 gõ đơn;
+C. 4 gõ đơn;
+D. Nhiều hơn 4 gõ;
+
+54. Sau khi vào thiết bị thoát hiểm, thủy thủ nhận được tín hiệu 1 gõ, hành động tiếp theo:
+A. Gõ trả lời tín hiệu 1 gõ;
+B. Gõ trả lời tín hiệu 1 gõ, sau đó mở van cấp nước vào TBTH;
+C. Thở một vài nhịp để kiểm tra, nếu bình thường thì gõ trả lời 1 gõ;
+D. Gõ trả lời tín hiệu 1 gõ, sau đó thở vài nhịp để kiểm tra;
+
+55. Sau khi vào thiết bị thoát hiểm, nhận được tín hiệu 2 gõ, hành động của thủy thủ:
+A. Nếu sức khỏe bình thường thì gõ trả lời tín hiệu 2 gõ;
+B. Nhận được tín hiệu phải gõ trả lời ngay;
+C. Gõ tín hiệu 1 gõ;
+D. Đóng van “thông khí” trên mũ của bộ quần áo kín nước, sau đó gõ 2 gõ;
+
+56. Khi nước đến 2/3 thiết bị thoát hiểm hoặc ngang ngực của người thoát:
+A. Người bảo đảm gõ tín hiệu 2 gõ kép ngừng cấp nước;
+B. Theo lệnh của người chỉ huy thoát hiểm, người bảo đảm gõ tín hiệu 2 gõ kép ngừng cấp nước;
+C. Người bảo đảm gõ tín hiệu 2 gõ kép, người thoát nhận được tín hiệu gõ trả lời 2 gõ kép;
+D. Người thoát hiểm gõ tín hiệu 2 gõ kép, người bảo đảm ngừng cấp nước và gõ trả lời 2 gõ kép;
+
+57. Vị trí trên dây phao tiêu có 3 quả cầu phao là bao nhiêu mét:
+A. 25 mét
+B. 35 mét
+C. 15 mét
+D. 12 mét
+
+58. Ống gấp được sử dụng để thoát hiểm khi nào:
+A. Khi thoát qua ống lôi;
+B. Khi thoát qua thiết bị thoát hiểm đứng bằng phương pháp tạo âu;
+C. Khi nổi lên theo dây phao tiêu;
+D. Khi thoát hiểm qua thiết bị thoát hiểm đứng bằng phương pháp đánh ngập khoang;
+
+59. Thứ tự hành động của thủy thủ khi ở trên mặt nước:                                
+A. Chuyển sang thở khí trời, đóng van xả-an toàn, cấp khí vào các khoang của bộ quần áo kín nước, đóng van của các bình khí của máy;
+B. Chuyển sang thở khí trời, cấp khí vào các khoang của bộ quần áo kín nước, đóng van xả-an toàn, đóng van của các bình khí của máy
+C. Cấp khí vào các khoang của bộ quần áo kín nước, chuyển sang thở khí trời, đóng van xả-an toàn, đóng van của các bình khí của máy;
+D. Đóng van của các bình khí của máy, chuyển sang thở khí trời, đóng van xả-an toàn, cấp khí vào các khoang của bộ quần áo kín nước;
+
+60. Thứ tự mở máy thở YDA-59M (ИДА-59М):
+A. Mở van của các bình khí, mở van xả-an toàn, chuyển sang thở khí máy:
+B. Mở van xả-an toàn, mở van của các bình khí, chuyển sang thở khí máy;
+C. Chuyển sang thở khí máy, mở van xả-an toàn, mở van của các bình khí;
+D. Mở van của các bình khí, chuyển sang thở khí máy;
+
+61. Các phương tiện cứu hộ cá nhân sử dụng khi thoát hiểm khỏi tàu ngầm khi tàu nổi trên mặt nước, bao gồm:
+A. Phao tròn cứu sinh, áo phao cá nhân, bộ quần áo kín nước APO/40;
+B. Phao tròn cứu sinh, áo phao cá nhân, bộ CCP-60;
+C. Áo phao cá nhân, bộ quần áo kín nước APO/40;
+D. Phao tròn cứu sinh, áo phao cá nhân;
+
+62. Các trang bị cứu hộ tập thể sử dụng khi thoát hiểm khỏi tàu ngầm khi tàu nổi trên mặt nước:                                      
+A. Phao bè cứu sinh tự thổi, phao cứu hộ hàng không;
+B. Phao bè cứu sinh tự thổi, phao cứu hộ hàng không, phao-cuộn dây cứu sinh;
+C. Phao bè cứu sinh tự thổi, phao cứu hộ hàng không, phao-cuộn dây cứu sinh, ống gấp;
+D. Phao bè cứu sinh tự thổi, phao cứu hộ hàng không, phao-cuộn dây cứu sinh, ống gấp, các cửa lên xuống tàu ngầm;
+
+63. Trang thiết bị cứu hộ toàn tàu sử dụng để thoát hiểm khỏi tàu ngầm gặp nạn, nằm đáy, bao gồm:                                             
+A. Thiết bị thoát hiểm đứng (cửa lên xuống ở khoang 1, 2, 6), thiết bị thoát hiểm ngang (các ống phóng lôi);
+B. Thiết bị thoát hiểm đứng (cửa lên xuống ở khoang 1, 2, 6), thiết bị thoát hiểm ngang (các ống phóng lôi), ống gấp;
+C. Thiết bị thoát hiểm đứng (cửa lên xuống ở khoang 1, 2, 6), thiết bị thoát hiểm ngang (các ống phóng lôi), ống gấp, phao-cuộn dây cứu sinh;
+D. Thiết bị thoát hiểm đứng (cửa lên xuống ở khoang 1, 2, 6), thiết bị thoát hiểm ngang (các ống phóng lôi), ống gấp, phao-cuộn dây cứu sinh, phao bè cứu sinh tự thổi;
+
+64. Chiều dài cuộn dây của phao-cuộn dây cứu sinh là:
+A. 110 m;
+B. 120 m;
+C. 130 m;
+D. 130 ± 0,1m;
+
+65. Các phương pháp nổi lên mặt nước khi độc lập thoát hiểm khỏi tàu ngầm gặp nạn, nằm đáy:
+A. 1;
+B. 2;
+C. 3;
+D. 4;
+
+66. Theo Quy định 9961/2021/QyĐ-BTL ngày 15/7/2021 của Tư lệnh Quân chủng về Đào tạo, huấn luyện thủy thủ tàu ngầm của Quân chủng Hải quân, hằng năm để gia hạn chứng chỉ lặn nhẹ, thoát hiểm phải tổ chức luyện tập và kiểm tra, đánh giá kết quả luyện tập lặn nhẹ:
+A. Ít nhất 01 lần;
+B. Ít nhất 02 lần;
+C. Ít nhất 03 lần;
+D. Ít nhất 04 lần;
+
+67. Khi huấn luyện, luyện tập lặn nhẹ, thoát hiểm tại Trung tâm Huấn luyện tàu ngầm, từng thủy thủ phải ký xác nhận vào các loại sổ sách, mẫu biểu sau:
+A. Sổ quán triệt quy tắc bảo đảm an toàn, sổ biên bản huấn luyện thực hành, sổ nhật ký lặn;
+B. Sổ quán triệt quy tắc bảo đảm an toàn, sổ biên bản huấn luyện thực hành, sổ nhật ký lặn, sổ theo dõi huấn luyện;
+C. Sổ quán triệt quy tắc bảo đảm an toàn, sổ biên bản huấn luyện thực hành, sổ nhật ký lặn, sổ theo dõi huấn luyện, sổ đầu bài;
+D. Sổ quán triệt quy tắc bảo đảm an toàn, sổ biên bản huấn luyện thực hành, sổ nhật ký lặn, sổ theo dõi huấn luyện, sổ đầu bài, sổ tay giáo viên;
+
+68. Khi huấn luyện, luyện tập lặn nhẹ, thoát hiểm tại Trung tâm Huấn luyện tàu ngầm, các đơn vị phải cắt cử, phân công cán bộ (sĩ quan) phụ trách:
+A. Là bắt buộc;
+B. Là không bắt buộc;
+
+69. Trong quá trình huấn luyện, luyện tập lặn nhẹ, thoát hiểm tại Trung tâm Huấn luyện tàu ngầm, khi thủy thủ thao tác kiểm tra trang bị, thực hành các bài tập, việc theo dõi, giám sát thường xuyên của giáo viên, hướng dẫn viên đối với các hành động của thủy thủ là:
+A. Bắt buộc;
+B. Không bắt buộc;
+
+70. Phao bè cứu sinh tự thổi biên chế trên tàu ngầm kilo-636:
+A. 1 cái;
+B. 2 cái;
+C. 3 cái;
+D. 4 cái;
+
+71. Phao bè cứu sinh tự thổi được sắp xếp bố trí trên tàu ngầm kilo-636 ở các khoang:
+A. 1, 2, 4;
+B. 1, 2, 6;
+C. 1, 2, 5;
+D. 2, 3, 6;
+
+72. Phao bè cứu sinh tự thổi biên chế trên tàu ngầm kilo-636, sức chứa theo thiết kế:
+A. 10 người;
+B. 15 người;
+C. 6 người;
+D. 20 người;
+
+73. Phao cứu hộ hàng không biên chế trên trên tàu ngầm kilo-636:
+A. 1 cái;
+B. 2 cái;
+C. 3 cái;
+D. 4 cái;
+
+74. Phao cứu hộ hàng không được sắp xếp trên tàu ngầm kilo-636 ở các khoang:
+A. 1, 2;
+B. 1, 3;
+C. 1, 4;
+D. 1, 6.
+
+75. Thiết bị thoát hiểm trên tàu ngầm kilo-636 có thể dùng phương pháp tạo âu được, bao gồm:
+A. Cửa lên xuống khoang 1, 2, 6;
+B. Cửa lên xuống khoang 1, 2, 6 và ống phóng lôi;
+C. Cửa lên xuống khoang 1, 6 và ống phóng lôi;
+D. Cửa lên xuống khoang 2 và ống phóng lôi; 
+
+76. Chức năng bộ trang bị cứu hộ thủy thủ tàu ngầm CCP biên chế trên tàu kilo-636 có độ sâu lặn tối đa:
+A. Theo phương pháp nổi tự do là 100m;
+B. Theo phương pháp nổi tự do là 120m;
+C. Theo phương pháp nổi tự do là 60m;
+D. Theo phương pháp nổi tự do là 110m;
+
+77.Chức năng bộ trang bị cứu hộ thủy thủ tàu ngầm CCP biên chế trên tàu kilo-636 có độ sâu lặn tối đa:
+A. Theo phương pháp nổi lên theo dây phao là 60m;
+B. Theo phương pháp nổi lên theo dây phao là 100m;
+C. Theo phương pháp nổi lên theo dây phao là 110m;
+D. Theo phương pháp nổi lên theo dây phao là 120m;
+
+78. Bộ trang bị cứu hộ thủy thủ tàu ngầm CCP biên chế trên tàu kilo-636 là bộ:
+A. Số 1;
+B. Số 2;
+C. Số 3;
+D. Số 4.
+
+79. Sự khác nhau giữa bộ trang bị cứu hộ thủy thủ tàu ngầm CCP số 1 và số 2 là:
+A. Hệ thống dù (dù của thủy thủ tàu ngầm);
+B. Máy thở cá nhân YDA-59M (ИДА-59М);
+C. Bộ quần áo kín nước SGP-K;
+D. Hệ thống dù (dù của thủy thủ tàu ngầm) và bộ quần áo kín nước SGP-K;
+
+80.Hình thức kiểm tra xem xét bên ngoài của bộ trang bị cứu hộ thủy thủ tàu ngầm: 
+A. Được thực hiện hằng ngày;
+B. Do thủy thủ tàu ngầm tiến hành;
+C. Dưới sự quan sát của trưởng khoang;
+D. Tất cả các ý trên;
+
+81. Nội dung kiểm tra xem xét bên ngoài của bộ trang bị cứu hộ thủy thủ tàu ngầm,bao gồm:  
+A. Kiểm tra về số lượng trang bị có theo biên chế;
+B. Vị trí cất giữ trang bị đúng theo quy định;
+C. Tất cả 2 ý trên;
+
+82. Hình thức kiểm tra trang bị hoạt động của bộ trang bị cứu hộ thủy thủ tàu ngầm, được thực hiện:
+A. 3 tháng một lần;
+B. 6 tháng một lần;
+C. 12 tháng một lần;
+D. Tất cả các ý trên đều sai;
+
+83. Hình thức kiểm tra trang bị hoạt động của bộ trang bị cứu hộ thủy thủ tàu ngầm biên chế trên tàu, được thực hiện do:
+A. Cá nhân từng thủy thủ tàu ngầm;
+B. Tổ 03 người trong đó có bác sĩ tàu ngầm;
+C. Tổ 02 người trong đó có Thuyền phó 1;
+D. Tổ 03 người trong đó có Trưởng ngành 5;
+
+84. Nội dung kiểm tra trang bị hoạt động của bộ trang bị cứu hộ thủy thủ tàu ngầm biên chế trên tàu, bao gồm:
+A. Kiểm tra bộ quần áo cứu hộ thủy thủ tàu ngầm;
+B. Kiểm tra máy thở cá nhân YDA-59M (ИДА-59М);
+C. Cả 2 ý trên;
+
+85. Chức năng bộ quần áo cứu hộ thủy thủ tàu ngầm SGP, bao gồm:
+A. Cách ly thủy thủ tàu ngầm với môi trường xung quanh;
+B. Dự phòng nhiễm lạnh nhanh chóng khi ở trong môi trường nước lạnh;
+C. Bảo đảm quá trình nổi lâu dài trên mặt nước sau khi thoát hiểm khỏi tàu ngầm gặp nạn;
+D. Tất cả các ý trên;
+
+86. Bộ quần áo cứu hộ thủy thủ tàu ngầm SGP được thiết kế thành 02 cỡ:
+A. Cỡ thứ nhất cho thủy thủ có chiều cao dưới 170cm; cỡ thứ hai cho thủy thủ có chiều cao trên 170cm;
+B. Cỡ thứ nhất cho thủy thủ có chiều cao dưới 175cm; cỡ thứ hai cho thủy thủ có chiều cao trên 175cm;
+C. Cỡ thứ nhất cho thủy thủ có chiều cao dưới 180cm; cỡ thứ hai cho thủy thủ có chiều cao trên 180cm;
+D. Cỡ thứ nhất cho thủy thủ có chiều cao dưới 165cm; cỡ thứ hai cho thủy thủ có chiều cao trên 165cm;
+
+87. Hai bình khí nén nhỏ trên bộ quần áo cứu hộ thủ thủy tàu ngầm có dung tích là:
+A. 0,05 lít;
+B. 0,1 lít;
+C. 0,15 lít;
+D. 0,2 lít;
+
+88. Áp suất trong 2 bình khí nén nhỏ trên bộ quần áo cứu hộ thủ thủy tàu ngầm là:
+A. 10-11 MPa;
+B. 11-12 MPa;
+C. 12-13 MPa;
+D. 13-14 MPa;
+
+89. Bộ quần áo cứu hộ thủy thủ tàu ngầm bao gồm các thành phần sau:
+A. Bộ quần áo kín nước; hai bình khí nén nhỏ; trang bị giữ nhiệt, bao tay và bít tất dạng phớt;
+B. Bộ quần áo kín nước; hai bình khí nén nhỏ; trang bị giữ nhiệt, bao tay và bít tất dạng phớt;
+C. Bộ quần áo kín nước; hai bình khí nén nhỏ; trang bị giữ nhiệt, bao tay và bít tất dạng phớt; lót giày;
+D. Bộ quần áo kín nước; hai bình khí nén nhỏ; trang bị giữ nhiệt, bao tay và bít tất dạng phớt; lót giày; bản lăn ren kim loại và dây cao su;
+
+90. Thời gian sử dụng tối đa của máy thở YDA-59M (ИДА-59М) trong điều kiện khoang có áp lực bình thường, khi nghỉ ngơi là:
+A. 3 giờ;
+B. 4 giờ;
+C. 5 giờ;
+D. 6 giờ;
+
+91. Thời gian sử dụng tối đa của máy thở YDA-59M (ИДА-59М) trong điều kiện khoang có áp lực bình thường, khi lao động nhẹ là:
+A. 2,0 giờ;
+B. 2,5 giờ;
+C. 3,0 giờ;
+D. 3,5 giờ;
+
+92. Thời gian sử dụng tối đa của máy thở YDA-59M (ИДА-59М) trong điều kiện khoang có áp lực bình thường, khi hoạt động thể lực nặng là:
+A. Dưới 0,5 giờ;
+B. Dưới 01 giờ;
+C. Dưới 1,5 giờ;
+D. Dưới 2,0 giờ;
+
+93. Thời gian sử dụng tối đa của máy thở YDA-59M (ИДА-59М) trong điều kiện khoang có áp lực bình thường kèm theo nhiệt độ trong khoang tăng lên (dưới 50 độ C) là:
+A. 10 phút;
+B. 20 phút;
+C. 30 phút;
+D. 40 phút;
+
+94. Thời gian sử dụng tối đa của máy thở YDA-59M (ИДА-59М) trong điều kiện khoang có áp lực dư dưới 0,2 MPa (2 kG/cm2), khi nghỉ ngơi là:
+A. 1,0 giờ;
+B. 1,5 giờ;
+C. 2,0 giờ;
+D. 2,5 giờ;
+
+95. Thời gian sử dụng tối đa của máy thở YDA-59M (ИДА-59М) trong điều kiện khoang có áp lực dư dưới 0,2 MPa (2 kG/cm2), khi lao động nhẹ là:
+A. 10 phút;
+B. 15 phút;
+C. 20 phút;
+D. 25 phút;
+
+96. Máy thở cá nhân YDA-59M (ИДА-59М) là:
+A. Máy thở tự động;
+B. Loại tái sinh không khí;
+C. Hoạt động với chu trình thở khép kín;
+D. Tất cả các ý trên;
+
+97. Máy thở cá nhân YDA-59M (ИДА-59М) có chức năng:
+A. Cách ly cơ quan hô hấp của thủy thủ tàu ngầm với môi trường xung quanh;
+B. Được dùng để đảm bảo cho quá trình hô hấp của thủy thủ khi độc lập thoát hiểm khỏi tàu ngầm gặp nạn theo phương pháp nổi tự do lên mặt nước hoặc nổi lên mặt nước theo dây phao tiêu;
+C. Khi thoát hiểm có sự phối hợp với lực lượng và phương tiện của lực lượng tìm kiếm cứu nạn mặt nước;
+D. Tất cả các ý trên;
+
+98. Cấu tạo máy thở cá nhân YDA-59M (ИДА-59М) bao gồm:
+A. Túi yếm gắn cùng túi thở, hộp thở tự động, van xả- an toàn, hộp van, ống hít vào, thở ra;
+B. Hộp tái sinh;
+C. Bình khí oxy và bình hỗn hợp khí Ni tơ- Heli- Oxy; móc lò xo;
+D. Tất cả các ý trên;
+
+99. Bộ trang bị cứu hộ thủy thủ tàu ngầm CCP đang biên chế trên tàu kilo-636 hiện nay có kèm theo bình khí Heli bổ sung hay không:
+A. Có;
+B. Không;
+
+100. Bộ trang bị cứu hộ thủy thủ tàu ngầm CCP đang biên chế tại Lữ đoàn 189 có 02 loại, khác nhau ở điểm nào:
+A. Ở bộ quần áo kín nước;
+B. Ở máy thở YDA-59M (ИДА-59М);
+
+101. Quy chế số 888/QC-LĐ áp dụng đối với đối tượng nào?
+A. Tất cả các cơ quan, đơn vị; các quân nhân thuộc biên chế Lữ đoàn 189 và các tổ chức, cá nhân có quan hệ công tác với Lữ đoàn 189;
+B. Tất cả các cơ quan, đơn vị trong vùng 4 Hải quân;
+C. Tất cả lực lượng thuộc khối tàu ngầm và các quân nhân cần cấp chứng chỉ được tham gia công tác cùng tàu ngầm;
+
+102. Theo quy chế số 888/QC-LĐ khi tham gia huấn luyện thực hành thoát hiểm lặn nhẹ, những trường hợp nào không được phép tham gia huấn luyện:
+A. Người bị các bệnh về thần kinh, tim mạch, hô hấp, cơ xương khớp mà ảnh hưởng đến khả năng di chuyển và các bệnh truyền nhiễm;
+B. Người bị các bệnh về thần kinh, tim mạch, hô hấp, cơ xương khớp không ảnh hưởng đến khả năng di chuyển và các bệnh truyền nhiễm;
+C. Người bị các bệnh về thần kinh, tim mạch, hô hấp, cơ xương khớp mà ảnh hưởng đến khả năng di chuyển;
+D. Người bị các bệnh về thần kinh, tim mạch, hô hấp, cơ xương khớp và các bệnh truyền nhiễm;
+
+103. Theo quy chế số 888/QC-LĐ trách nhiệm của các đối tượng tham gia huấn luyện:
+A. Chấp hành nghiêm các quy định trong quy tắc BĐAT; thực hiện đúng nội dung, mệnh lệnh của người chỉ huy đơn vị và yêu cầu của giáo viên TTHL. Kịp thời thông báo khi có dấu hiệu mất an toàn và tình trạng sức khỏe của bản thân;
+B. Chấp hành nghiêm các quy định trong quy tắc BĐAT; thực hiện đúng nội dung, mệnh lệnh của người chỉ huy đơn vị. Kịp thời thông báo khi có dấu hiệu mất an toàn và tình trạng sức khỏe của bản thân;
+C. Thực hiện đúng nội dung, mệnh lệnh của người chỉ huy đơn vị và yêu cầu của giáo viên TTHL. Kịp thời thông báo khi có dấu hiệu mất an toàn và tình trạng sức khỏe của bản thân;
+D. Chấp hành nghiêm các quy định trong quy tắc BĐAT; thực hiện đúng nội dung, mệnh lệnh và yêu cầu của giáo viên TTHL. Kịp thời thông báo khi có dấu hiệu mất an toàn và tình trạng sức khỏe của bản thân;
+
+104. Theo quy chế số 888/QC-LĐ khi mặc trang bị lặn:
+A. Phải kiểm tra thông số kỹ thuật của máy lặn theo đúng tiêu chuẩn quy định. Quá trình mặc bộ quần áo lặn và mang đeo trang thiết bị phải phân công người vừa hỗ trợ, vừa giám sát các thao tác;
+B. Phải kiểm tra thông số kỹ thuật của máy lặn theo đúng tiêu chuẩn quy định. Quá trình mặc bộ quần áo lặn và mang đeo trang thiết bị cần người hỗ trợ, giúp đỡ;
+C. Phải kiểm tra thông số kỹ thuật của máy lặn theo đúng tiêu chuẩn quy định. Quá trình mặc bộ quần áo lặn và mang đeo trang thiết bị phải có hướng dẫn viên lặn giám sát;
+D. Phải kiểm tra thông số kỹ thuật của máy lặn theo đúng tiêu chuẩn quy định. Quá trình mặc bộ quần áo lặn và mang đeo trang thiết bị phải tự mình thực hiện;
+
+105. Theo quy chế số 888/QC-LĐ khi mặc trang bị lặn nghiêm cấm:
+A. Sử dụng các dụng cụ có dầu mỡ thao tác trên bình khí nén oxy, sử dụng các dụng cụ, vật tư dễ cháy;
+B. Quăng quật, va, đập vỏ bình khí nén vào các vật rắn;
+C. Quay đầu khí nén về các khu vực có người;
+D. Tất cả các ý trên;
+
+106. Theo quy chế số 888/QC-LĐ khi huấn luyện thoát hiểm, lặn nhẹ nghiêm cấm:
+A. Người luyện tập tự ý thao tác khi chưa có hiệu lệnh của người huấn luyện;
+B. Chạy, xô, đẩy, đùa giỡn, vỗ mạnh lên túi thở trong quá trình luyện tập;
+C. Để tay lên các vị trí có cấu trúc bản lề, ròng rọc, dây đai;
+D. Tất cả các ý trên;
+
+107. Theo quy chế số 888/QC-LĐ khi đang huấn luyện thực hành thoát hiểm, lặn nhẹ nghiêm cấm:
+A. Tháo, gỡ trang bị, dụng cụ khi đang còn áp lực;
+B. Sờ tay vào hộp tái sinh oxi
+C. Đập mạnh vào túi thở trong quá trình sử dụng
+D. Sờ tay vào các bình khí nén cao áp
+
+108. Theo quy chế số 888/QC-LĐ trong quá trình luyện tập thoát hiểm, lặn nhẹ:
+A. Phải thường xuyên có giáo viên, kỹ thuật viên tại vị trí để theo dõi và bảo đảm;
+B. Phải thường xuyên có hướng dẫn viên lặn tại vị trí để theo dõi và bảo đảm;
+C. Phải thường xuyên có người bảo đảm tại vị trí để theo dõi và bảo đảm;
+
+109. Theo quy chế số 888/QC-LĐ trong quá trình luyện tập, kiểm tra thoát hiểm, lặn nhẹ. Khi người luyện tập có hành động, thao tác sai thì giáo viên phải:
+A. Dừng tập và hướng dẫn lại quy trình sử dụng;
+B. Dừng tập, cho người luyện tập về học lại quy trình và tiến hành luyện tập lại vào buổi sau;
+C. Nhắc nhở, trừ điểm kiểm tra thực hành thoát hiểm, lặn nhẹ;
+
+110. Theo quy định số 11861/QyĐ-BTL trường hợp nào người học phải huấn luyện khô trước khi thực hành huấn luyện LN-TH?
+A. Trước khi huấn luyện với nước đều phải huấn luyện khô để thao tác thuần thục các trang thiết bị;
+B. Cách 2 năm phải huấn luyện khô lại một lần;
+C. Mới tham gia huấn luyện LN-TH lần đầu;
+
+111. Theo quy định số 11861/QyĐ-BTL trước khi thực hành huấn luyện LN-TH giáo viên, chỉ huy đơn vị phải?
+A. Tập hợp kiểm tra quân số;
+B. Quán triệt và kiểm tra các qui định bảo đảm an toàn;
+C. Kiểm tra việc nắm các tín hiệu và quy trình xử lý khi có tình huống trong huấn luyện;
+D. Tất cả các ý trên;
+
+112. Theo quy định số 11861/QyĐ-BTL điều kiện để được tham gia huấn luyện thực hành LN-TH?
+A. Có đủ điều kiện sức khỏe, trạng thái tâm lý tốt, được huấn luyện lý thuyết và kiểm tra đánh giá kết quả từ Giỏi trở lên;
+B. Có đủ điều kiện sức khỏe, trạng thái tâm lý tốt, được huấn luyện lý thuyết và kiểm tra đánh giá kết quả từ Khá trở lên;
+C. Có đủ điều kiện sức khỏe, trạng thái tâm lý tốt, được huấn luyện lý thuyết và kiểm tra đánh giá kết quả từ Trung bình trở lên;
+
+113. Quy định số 11861/QyĐ-BTL áp dụng đối với đối tượng nào?
+A. Các cơ quan, tổ chức, cá nhân khi tham gia huấn luyện, luyện tập, nghiên cứu, bảo quản, bảo dưỡng, sửa chữa trên tàu ngầm;
+B. Các cơ quan, tổ chức, cá nhân khi tham gia huấn luyện, luyện tập, nghiên cứu, bảo quản, bảo dưỡng, sửa chữa tại Trung tâm huấn luyện tàu ngầm;
+C. Các lực lượng tham gia phối thuộc, hiệp đồng và bảo đảm cho tàu ngầm hoạt động;
+D. Tất cả các ý trên;
+
+114. Vị trí, ý nghĩa của Quy định bảo đảm an toàn tàu ngầm?
+A. Quyết định đến việc bảo đảm an toàn, giảm đến mức thấp nhất khả năng có thể xảy ra sự cố, nâng cao chất lượng huấn luyện và sức mạnh chiến đấu của lực lượng tàu ngầm;
+B. Quyết định đến việc bảo đảm an toàn, nâng cao chất lượng huấn luyện và sức mạnh chiến đấu của lực lượng tàu ngầm;
+C. Quyết định đến việc bảo đảm an toàn, giảm thiệt hại do sự cố, nâng cao chất lượng huấn luyện và sức mạnh chiến đấu của lực lượng tàu ngầm;
+
+115. Trước khi huấn luyện tại tổ hợp thoát hiểm, bể lặn. Các kíp tàu ngầm và cơ quan, đơn vị có thành phần tham gia huấn luyện cần phải:
+A. Kiểm tra quân số, nắm chắc sức khỏe, tâm sinh lý của bộ đội;
+B. Giao nhiệm vụ cụ thể cho các lực lượng tham gia huấn luyện, phân công người phụ trách;
+C. Phối hợp cùng Trung tâm huấn luyện tiến hành kiểm tra sức khỏe thủy thủ trước khi bước vào huấn luyện;
+D. Tất cả các ý trên;
+
+116. Theo Quy định số 11861/QyĐ-BTL bảo đảm an toàn tàu ngầm gồm mấy nội dung?
+A. 4
+B. 5
+C. 6
+D. 7
+
+117. Trước khi huấn luyện thực hành TH, LN giáo viên có trách nhiệm quán triệt, phổ biến đến 100% quân số tham gia huấn luyện:
+A. Nội dung huấn luyện;
+B. Các quy tắc bảo đảm an toàn quy định về ký, tín, ám hiệu khi có tình huống;
+C. Hướng dẫn lại quy trình sử dụng các trang thiết bị lặn, cách xử lý khi có sự cố;
+D. Tất cả các ý trên;
+
+118. Khi kết thúc buổi huấn luyện LN, TH cần phải:
+A. Đưa trang bị kỹ thuật, máy móc, khí tài, dụng cụ... về trạng thái ban đầu;
+B. Kiểm tra quân số, tình trạng sức khỏe, đăng ký vào sổ sách;
+C. Hồi tĩnh, thả lỏng;
+D. Rút kinh nghiệm huấn luyện;
+E. Vệ sinh sạch sẽ khu vực huấn luyện;
+F. Tất cả các ý trên;
+
+119. Vị trí, ý nghĩa của Quy định bảo đảm an toàn tàu ngầm?
+A. Là cơ sở pháp lý để xác định trách nhiệm của các tập thể, cá nhân khi xảy ra vụ việc mất an toàn;
+B. Là cơ sở quy trách nhiệm cho tập thể, cá nhân khi xảy ra vụ việc mất an toàn;
+C. Hạn chế việc xảy ra mất an toàn do lỗi chủ quan;
+
+120. Khi tham gia huấn luyện thực hành TH, LN 100% quân số tham gia huấn luyện phải kiểm tra và ký xác nhận vão những sổ nào sau đây:
+A. Sổ theo dõi huấn luyện thực hành;
+B. Sổ phổ biến quy tắc bảo đảm an toàn;
+C. Sổ nhật ký những công việc lặn;
+D. Tất cả các ý trên;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
